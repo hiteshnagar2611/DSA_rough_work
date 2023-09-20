@@ -1,0 +1,5 @@
+ADD	0
+ADDF	3
+ADD	6
+C	9
+THREE	12
