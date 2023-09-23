@@ -45,12 +45,11 @@ void sumarray(vector<int> &a,vector<int> &b){
         cout<<x;
     }
 
-
 }
 
 int main(){
     vector<int> a{1,2,3,4,5};
-    vector<int> b{1,2,3,4,5,6};
+    vector<int> b{9,9,3,4,5,6};
 
     sumarray(a,b);
 
