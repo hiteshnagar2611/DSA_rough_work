@@ -1,0 +1,10 @@
+// Sample assembly code
+start:
+    LDA 5   
+    ADD 3   
+    STA X   
+    HLT     
+
+X: .DATA 0 
+Y: .DATA 10 
+
