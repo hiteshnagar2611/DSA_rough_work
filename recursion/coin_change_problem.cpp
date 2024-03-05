@@ -8,6 +8,7 @@ int coin(vector<int>& arr, int target){
     if(target == 0){
         return 0;
     }
+    //base case
     if(target < 0){
         return INT16_MAX;
     }
