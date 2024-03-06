@@ -1,3 +1,5 @@
+// same as previous but code of lines is fewer;
+
 #include <iostream>
 #include <vector>
 
