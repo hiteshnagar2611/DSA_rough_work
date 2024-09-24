@@ -22,6 +22,6 @@ int main(){
     s.pop();
     //cout<< s.top() <<endl;
 
-    cout<< "stack is empty or not " << s.empty();
+    cout<< "stack is empty or not " << s.empty() <<endl;
     
 }
